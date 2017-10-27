@@ -25,8 +25,9 @@
 			"age": "-3"
 		},
 		{
-			"name": "Mistoffeles",
-			"age": "12"
+			"photo": "https://cdn.rawgit.com/richardwestenra/mv-data/8543c410ad285324c748246cc3c8ec4c8f9ccf73/images/15b0f56260cd6f708f285af971827b49.jpg",
+			"name": "Grace Hoppurr",
+			"age": "100"
 		}
 	]
 }
